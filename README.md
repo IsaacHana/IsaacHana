@@ -34,6 +34,9 @@
 
 #### stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacHana&show_icons=true&theme=radical)
+
+#### 백준
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isaac233)](https://solved.ac/isaac233/)
 <!--
 **IsaacHana/IsaacHana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
